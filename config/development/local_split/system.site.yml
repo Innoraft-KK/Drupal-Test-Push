@@ -1,0 +1,15 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 967692f2-94c0-4e4b-8fbe-503956d7a2a8
+name: 'Employee Detail'
+mail: admin@example.com
+slogan: ''
+page:
+  403: /node/3
+  404: /node/4
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
+mail_notification: ''
